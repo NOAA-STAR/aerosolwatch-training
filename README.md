@@ -1,5 +1,5 @@
 <h1>
-  <img src="images/aerosolwatch_socials_logo.jpg" alt="Logo" width="50" height="50" align="left" style="margin-right: 15px;">
+  <img src="images/aerosolwatch_socials_logo.jpg" alt="Logo" width="100" align="left" style="margin-right: 20px;">
   STAR AerosolWatch Training Resources
 </h1>
 
