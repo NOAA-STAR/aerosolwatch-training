@@ -1,5 +1,5 @@
 <h1>
-  <img src="images/aerosolwatch_socials_logo.jpg" alt="Logo" width="100" align="left" style="margin-right: 20px;">
+  <img src="../images/aerosolwatch_socials_logo.jpg" alt="Logo" width="100" align="left" style="margin-right: 20px;">
   AerosolWatch Training Resources: Google Colab Tutorials
 </h1>
 
