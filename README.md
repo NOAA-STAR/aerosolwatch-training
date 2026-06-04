@@ -5,6 +5,6 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-This GitHub repository is a resource for end users who are interested in working with aerosols and atmospheric composition satellite products from the NOAA NESDIS Center for Satellite Applications and Research (STAR).
+This GitHub repository is a resource for stakeholders who are interested in using Python to work with satellite data from the Aerosols and Atmospheric Composition Science Team at NOAA NESDIS.
 
 THIS REPO IS UNDER CONSTRUCTION!  MATERIALS ARE COMING SOON!!  THANKS FOR YOUR PATIENCE.
